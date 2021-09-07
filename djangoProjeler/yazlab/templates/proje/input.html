@@ -1,0 +1,9 @@
+<html>
+<body>
+   <form method="POST" action="{% url 'index' %}">   
+      {% csrf_token %}
+      <textarea name="message" placeholder="input product url"></textarea>
+      <input type="submit" /><br>
+   </form>
+</body>
+</html>
