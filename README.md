@@ -1,4 +1,6 @@
 # web_scraping
-web scraping with given url addresses
+web scraping with given url address from etsy e-commerce site
 
-It is a web scraping project where the frequency, similarity and sub-urls of the words in the given url addresses are found.
+
+product name, price and image address
+
